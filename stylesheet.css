@@ -1,5 +1,4 @@
 body {
-  background-color: #CCCCCC;
   font-family: "Avenir Next";
 }
 
@@ -27,6 +26,7 @@ li {
 
 
 .main {
+  background-color: #CCCCCC;
   padding: 100px 80px;
 }
 
