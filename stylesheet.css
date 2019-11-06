@@ -39,10 +39,6 @@ li {
   color: #ff4a4a;
 }
 
-.contents {
-  height: 500px;
-  margin-top: 100px;
-}
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
@@ -51,15 +47,6 @@ li {
   margin-bottom: 50px;
 }
 
-.contents-item {
-  float: left;
-  margin-right: 40px;
-}
-
-.contents-item {
-  font-size: 25px;
-  margin-top: 30px;
-}
 
 .contact-form {
   padding-top: 100px;
